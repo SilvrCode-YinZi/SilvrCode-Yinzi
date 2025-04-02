@@ -1,5 +1,5 @@
 ## Hi there 👋
-![图片名字].(README.md)
+![图片名字](README.md)
 <!--
 **SilvrCode-YinZi/SilvrCode-Yinzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
