@@ -1,6 +1,9 @@
 # 👨💻 I'm 银子 ---------- 你好我的第 ![Visitor](https://profile-counter.glitch.me/SilvrCode/count.svg)  访客
 
-### 🛠️ 技术栈 
+### 🛠️ 技术栈  
+🕹️ ARM 架构师 | 🐍 Python 自动化师 | ⚡ 硬件狂人 | 🔌 硬件黑客 | 📟 固件炼金术士 | 🐜 蚁群优化算法信徒  
+🌌 在寄存器间谱写星辰 | 🎮 用Python绘制数字彩虹 |💻 资深Hello World架构师 | 🐞 专业debug气氛组成员  
+
 ![Skills](https://skillicons.dev/icons?i=raspberrypi,arduino,linux,allegro)  
 
 ![](https://img.shields.io/badge/C-ED8B00?style=for-the-badge&logo=c&logoColor=white)
@@ -11,7 +14,7 @@
 ![](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
 ![](https://img.shields.io/badge/嘉立创-FF6A00?style=for-the-badge&logo=data:image/png;base64,自定义Base64编码图标)
 
-🕹️ ARM 架构师 | 🐍 Python 自动化师 | ⚡ 硬件狂人` 
+
 
 ![](https://img.shields.io/badge/STM32-blue?logo=stmicroelectronics&logoColor=white)  ![](https://img.shields.io/badge/FreeRTOS-绿色进程-critical?logo=freertos)  ![](https://img.shields.io/badge/IoT-智慧连接-success?logo=azurepipelines)
 
@@ -31,15 +34,15 @@
 • 🖥️ [OLED显示模块驱动](链接)----开发中ing  
 
 `SH1116`  `1.3寸OLED`  `TFT`   `iic`  `spi`   
-• 🌡️ [环境监测模块驱动](链接)----开发中ing  
+• 🌡️ [传感器模块驱动](链接)----开发中ing  
 
-`SH1116`  `1.3寸OLED`  `TFT`   `iic`  `spi`  
+`环境传感器`  `姿态传感器 `  `定位传感器`   `感知`  
 • 💻️⇄📱 [通信模块驱动](链接)----开发中ing    
 
 `CAN`  `485`  `232`   `串口`  `spi`  `WIFI`  `蓝牙` 
 
 • ⚙️ [动力模块驱动](链接)----开发中ing    
-`直流电机`  `无刷电机`  `伺服电机`   `舵机`  `spi`  `WIFI`  `蓝牙` 
+`直流电机`  `无刷电机`  `伺服电机`   `空心杯`  `PWM`  `FOC`  `PID` 
 ## 🌱 Growing Now
 ```c
 while(1){
